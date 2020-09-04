@@ -14,16 +14,18 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## Sarah's Cloud Journey
 
-[✍️ Introduce yourself]
+I'm a Full Stack Developer that is interested in the Cloud. <br />
+08.2020: Passed the AWS Certified Cloud Practitioner Certificate Exam <br />
+Currently: Studying for the AWS Certified Solutions Architect – Associate Exam
 
-[✍️ Tell us why you started this challenge]
+I started this challenge to keep track of my progress and to share what I've learned. 
 
-[✍️ Tell us where you want to be at the end of the challenge]
+At the end of this challenge, I hope I have a better understanding of the Cloud and pass the SAA-C02 exam. 
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [twitter.com/sarahg813](https://twitter.com/sarahg813)
+- [linkedin.com/in/sarahgoon](https://www.linkedin.com/in/sarahgoon)
 
 ## Stepping out the door
 
