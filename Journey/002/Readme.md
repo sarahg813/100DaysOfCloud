@@ -1,11 +1,8 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
 # Create a Billing Alarm
 
 ## Introduction
 
-I chose this topic because I wanted to get hands-on on how to make a billing alarm. 
+I chose this topic because I wanted to get hands-on on how to create a billing alarm. 
 
 ## Cloud Research
 
@@ -52,4 +49,4 @@ Steps to create a Billing Alarm:
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[https://twitter.com/sarahg813/status/1303903650079821825](https://twitter.com/sarahg813/status/1303903650079821825)
