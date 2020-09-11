@@ -30,9 +30,10 @@ Steps on how to create an IAM Admin User
 
 ![Screenshot](https://user-images.githubusercontent.com/22378253/92849006-ce5db080-f3b8-11ea-9694-b0826c4faf0a.png)
 
+### Step 5 — Skip Tags > Review > Create
 
 ## Social Proof
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[https://twitter.com/sarahg813/status/1304254801014906880](https://twitter.com/sarahg813/status/1304254801014906880)
