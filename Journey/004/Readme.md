@@ -1,49 +1,37 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# How to use IAM Access Keys with AWS CLI
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+You can authenticate the CLI with IAM Access Keys
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+An IAM user can create and delete Access Keys, and and make them inactive/active. <br />
+When you create an Access Key, AWS will give you the credentials but will not store the Secret Access Key. <br />
+You can't change the Access Key, you must delete it and make a new one. <br />
+You can configure the AWS CLI and give it access to your accounts with your Access Key credentials.
 
 ## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+Steps to make your Access Key credentials and how to configure the AWS CLI
 
-### Step 1 — Summary of Step
+### Step 1 — In the IAM Management Console, click on 'Users' on the left navbar & then click 'Create access key'
 
-![Screenshot](https://via.placeholder.com/500x300)
+![Screenshot](https://user-images.githubusercontent.com/22378253/92986027-d5062980-f485-11ea-8c2c-29babbf40eca.png)
 
-### Step 1 — Summary of Step
+### Step 2 — Keep note of the Access Key ID & the Secret Access Key. When you click the 'Close' button, you can't get the 'Secret access key' again
 
-![Screenshot](https://via.placeholder.com/500x300)
+![Screenshot](https://user-images.githubusercontent.com/22378253/92986041-f23af800-f485-11ea-971f-38f688b8d887.png)
 
-### Step 3 — Summary of Step
+### Step 3 — Make sure you have the AWS CLI installed
+In the terminal: <br />
+aws configure --profile [profile name] <br />
+Type in your AWS Access Key credentials <br />
+Default region name: us-east-1 <br />
+Default output format can be left blank
 
-![Screenshot](https://via.placeholder.com/500x300)
+![Screenshot](https://user-images.githubusercontent.com/22378253/92986072-3af2b100-f486-11ea-9ef1-132243702fc3.png)
 
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
 
 ## Social Proof
 
