@@ -10,6 +10,4 @@ Today I learned about the different types of cloud:
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[https://twitter.com/sarahg813/status/1305345007818346496](https://twitter.com/sarahg813/status/1305345007818346496)
