@@ -1,49 +1,11 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
-
-## Introduction
-
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+# Different Service Resilience
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+There are three different levels of resilience for services:
+- Global Resilience - A service operates globally with a single database, and its data is replicated across multiple regions inside AWS. One region can fail but the services will keep running. It would take all of the regions in the world to fail for it to experience a full shutdown. 
+- Region Resilience - Services that operate in a single region with one set of data per region. Region resilient services operate as separate services in each region and they generally replicate data to multiple AZs in that region. If an AZ fails in one region then the service will continue operating but if the whole region fails then the service will fail. 
+- Availability Zone Resilience - services that operate from a single AZ. If the AZ that the service is provisioned into fails then that service will fail. If the hardware fails in an AZ, it'll continue working because AWS has resilient storage systems. 
 
 ## Social Proof
 
