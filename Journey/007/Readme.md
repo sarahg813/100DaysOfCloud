@@ -16,5 +16,5 @@
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[https://twitter.com/sarahg813/status/1306441828569415681](https://twitter.com/sarahg813/status/1306441828569415681)
 
