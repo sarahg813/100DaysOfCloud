@@ -35,7 +35,7 @@ At the end of this challenge, I hope I have a better understanding of the Cloud 
 - [x] ☁️ 4 > [How to use IAM Access Keys with CLI](Journey/004/Readme.md)
 - [x] ☁️ 5 > [Different Types of Clouds](Journey/005/Readme.md)
 - [x] ☁️ 6 > [Different Service Resilience](Journey/006/Readme.md)
-- [ ] ☁️ 7 > [](Journey/007/Readme.md)
+- [x] ☁️ 7 > [Basic VPC Info](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
 - [ ] ☁️ 10 > [](Journey/010/Readme.md)
