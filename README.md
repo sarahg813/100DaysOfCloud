@@ -36,7 +36,7 @@ At the end of this challenge, I hope I have a better understanding of the Cloud 
 - [x] ☁️ 5 > [Different Types of Clouds](Journey/005/Readme.md)
 - [x] ☁️ 6 > [Different Service Resilience](Journey/006/Readme.md)
 - [x] ☁️ 7 > [Basic VPC Info](Journey/007/Readme.md)
-- [ ] ☁️ 8 > [](Journey/008/Readme.md)
+- [x] ☁️ 8 > [Create an Amazon EC2 Instance](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
 - [ ] ☁️ 10 > [](Journey/010/Readme.md)
 
