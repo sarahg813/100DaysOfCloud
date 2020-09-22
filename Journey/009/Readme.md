@@ -1,6 +1,3 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
 # Create an Inline Policy for an IAM User
 
 ## Cloud Research
@@ -28,6 +25,4 @@ How to Create an Inline Policy for an IAM User
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[https://twitter.com/sarahg813/status/1308245825445924864](https://twitter.com/sarahg813/status/1308245825445924864)
