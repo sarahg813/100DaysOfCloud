@@ -1,4 +1,4 @@
-# IAM Groups and How to Create them 
+# Create an IAM Group and Add Users to the Group
 
 ## Introduction
 
@@ -42,6 +42,4 @@ Create an IAM Group
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[https://twitter.com/sarahg813/status/1308589192746762241](https://twitter.com/sarahg813/status/1308589192746762241)
