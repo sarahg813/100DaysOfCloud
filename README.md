@@ -38,7 +38,7 @@ At the end of this challenge, I hope I have a better understanding of the Cloud 
 - [x] ☁️ 7 > [Basic VPC Info](Journey/007/Readme.md)
 - [x] ☁️ 8 > [Create an Amazon EC2 Instance](Journey/008/Readme.md)
 - [x] ☁️ 9 > [Create an Inline Policy for an IAM User](Journey/009/Readme.md)
-- [ ] ☁️ 10 > [](Journey/010/Readme.md)
+- [X] ☁️ 10 > [Create an IAM Group and Add Users to the Group](Journey/010/Readme.md)
 
 ## Walking down the road
 
