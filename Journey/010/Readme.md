@@ -1,49 +1,44 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# IAM Groups and How to Create them 
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+- An IAM Group is a collection of IAM Users
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+- Groups let you specify permissions for multiple Users, which can make it easier to manage the permissions for those Users.
+- You can't have a login to IAM Groups and they don't have any credentials.
+- An IAM User can be a member of multiple Groups. 
+- Groups can have policies attached to them. 
+- Groups can't be referenced as a principal in a policy. 
+- There's no limit for the number of Users in an IAM Group.
+- You can't have any nesting in Groups such as Groups within Groups. 
+- There's a limit of 300 Groups per account but you can increase that by creating a support ticket with AWS. 
 
 ## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+Create an IAM Group 
 
-### Step 1 — Summary of Step
+### Step 1 — In the IAM console, click on 'Groups' on the left navbar and click on 'Create New Group'
 
-![Screenshot](https://via.placeholder.com/500x300)
+![Screenshot](https://user-images.githubusercontent.com/22378253/93955687-4e233d80-fd1e-11ea-800d-4fddbb812976.png)
 
-### Step 1 — Summary of Step
+### Step 2 — Set Group Name
 
-![Screenshot](https://via.placeholder.com/500x300)
+![Screenshot](https://user-images.githubusercontent.com/22378253/93955717-65fac180-fd1e-11ea-9a3f-3dc7f910757a.png)
 
-### Step 3 — Summary of Step
+### Step 3 — Choose the policy to attach to the Group > Review > Create Group
 
-![Screenshot](https://via.placeholder.com/500x300)
+![Screenshot](https://user-images.githubusercontent.com/22378253/93955791-8d518e80-fd1e-11ea-80fc-cdf03eeb6a7d.png)
 
-## ☁️ Cloud Outcome
+### Step 4 — In the IAM console, click on your new Group and click on 'Add Users to Group'
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+![Screenshot](https://user-images.githubusercontent.com/22378253/93955832-ac502080-fd1e-11ea-9df3-de90325e9767.png)
 
-## Next Steps
+### Step 5 — Select the User that you want to add to the group > Add Users
 
-✍️ Describe what you think you think you want to do next.
+![Screenshot](https://user-images.githubusercontent.com/22378253/93956100-5def5180-fd1f-11ea-81df-f10e86f3985b.png)
+
 
 ## Social Proof
 
