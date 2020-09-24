@@ -31,7 +31,7 @@ At the end of this challenge, I hope I have a better understanding of the Cloud 
 
 - [x] ☁️ 1 > [My First Day](Journey/001/Readme.md)
 - [x] ☁️ 2 > [Create a Billing Alarm](Journey/002/Readme.md)
-- [x] ☁️ 3 > [How to Create an IAM Admin User ](Journey/003/Readme.md)
+- [x] ☁️ 3 > [How to Create an IAM Admin User](Journey/003/Readme.md)
 - [x] ☁️ 4 > [How to use IAM Access Keys with CLI](Journey/004/Readme.md)
 - [x] ☁️ 5 > [Different Types of Clouds](Journey/005/Readme.md)
 - [x] ☁️ 6 > [Different Service Resilience](Journey/006/Readme.md)
@@ -42,7 +42,7 @@ At the end of this challenge, I hope I have a better understanding of the Cloud 
 
 ## Walking down the road
 
-- [ ] ☁️ 11 > [](Journey/011/Readme.md)
+- [x] ☁️ 11 > [IAM Roles and AWS Organizations](Journey/011/Readme.md)
 - [ ] ☁️ 12 > [](Journey/012/Readme.md)
 - [ ] ☁️ 13 > [](Journey/013/Readme.md)
 - [ ] ☁️ 14 > [](Journey/014/Readme.md)
