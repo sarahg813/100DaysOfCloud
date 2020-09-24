@@ -14,6 +14,7 @@ IAM Roles
 - Another use is if you have more than 5,000 staff members, you can use Single Sign On (SSO) and implement Identity Federation which allows an IAM Role inside your AWS account to be assumed by one of the external identities
 - Another use is for an app that can scale to millions of users by using Web Identity Federation that uses IAM Roles. Customers can sign-in using a web identity and that'll allow them to assume an IAM Role. 
 
+
 AWS Organizations
 - It is a product that allows larger businesses to manage multiple AWS accounts
 - With an AWS account, you can create an AWS Organization and that'll become the "master account." 
@@ -29,6 +30,4 @@ AWS Organizations
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[https://twitter.com/sarahg813/status/1308977434717491202](https://twitter.com/sarahg813/status/1308977434717491202)
