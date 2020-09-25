@@ -68,4 +68,4 @@
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[https://twitter.com/sarahg813/status/1309331845994164225](https://twitter.com/sarahg813/status/1309331845994164225)
