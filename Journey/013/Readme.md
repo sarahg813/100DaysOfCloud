@@ -1,49 +1,23 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# Service Control Policies
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+Service Control Policies (SCPs) are a type of Organization policy that you can use to manage permissions in your Org. They help you to ensure your accounts stay within your organization's access control guidelines.
 
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+- SCP is a policy document (JSON) and they can be attached to the Org as a whole by attaching them to the root container.
+- They can be attached to one or more Organizational Unit (OU) or they can be attached to one or more AWS account directly. 
+- If an SCP is attached to the Org then they affect all accounts inside the Org.
+- If they're attached to an OU then they impact all accounts in all OUs below that OU.
+- The master account is never affected by any SCPs. 
+- SCPs do not grant any permissions.
+- SCPs are just boundaries that control what is allowed and what isn't allowed.
+- You can create an 'allow list' which blocks services by default but allow certain services.
+- You can create a 'deny list' which allows services by default but deny certain services. 
+- When you enable SCPs on your Org, AWS applies a default policy called 'FullAWSAccess' to the Org and all OUs in that Org. 
 
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
 
 ## Social Proof
 
