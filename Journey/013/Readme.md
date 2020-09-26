@@ -21,6 +21,4 @@ Service Control Policies (SCPs) are a type of Organization policy that you can u
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[https://twitter.com/sarahg813/status/1309690739358662658](https://twitter.com/sarahg813/status/1309690739358662658)
