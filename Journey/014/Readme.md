@@ -1,4 +1,4 @@
-# CloudWatch Logs & CloudTrail
+# Amazon CloudWatch Logs & AWS CloudTrail
 
 ## Introduction
 
@@ -23,4 +23,4 @@ CloudTrail
 
 ## Social Proof
 
-[link](link)
+[https://twitter.com/sarahg813/status/1310770814082482176](https://twitter.com/sarahg813/status/1310770814082482176)
