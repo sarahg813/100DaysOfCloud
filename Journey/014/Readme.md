@@ -1,52 +1,26 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# CloudWatch Logs & CloudTrail
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+- CloudWatch Logs enables you to centralize the logs from all of your systems, apps and AWS services that you use, in a single, highly scalable service.
+- CloudTrail is a service that enables governance, compliance, operational auditing, and risk auditing of your AWS account. 
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+CloudWatch Logs
+- It allows you to store,monitor, and access logging data (a piece of info data and a time stamp).
+- It can take logging data and generate a metric from it.
+- It is a regional service
 
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+CloudTrail
+- It's a product which logs API actions or account activities which affect AWS accounts. 
+- CloudTrail Event is a log of an activity/API calls in an AWS account.
+- The events are stored by defult for 90 days in Event History.
+- By default, CloudTrail only logs Management Events. Management Events provide info about mgmt operations that are performed on resources in your AWS account. 
+- You have to enable logs of Data Events. Data Events contain info about resource operations performed on or in a resource. 
+- A trail logs events for the AWS region that it's created in. 
+- Global Service Events - CloudFront logs Global Services such as IAM/STS/CloudFront to us-east-1
 
 ## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
 
 [link](link)
