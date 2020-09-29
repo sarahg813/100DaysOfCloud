@@ -45,7 +45,7 @@ At the end of this challenge, I hope I have a better understanding of the Cloud 
 - [x] ☁️ 11 > [IAM Roles and AWS Organizations](Journey/011/Readme.md)
 - [x] ☁️ 12 > [How to Create an AWS Organization and Role Switching](Journey/012/Readme.md)
 - [x] ☁️ 13 > [Service Control Policies](Journey/013/Readme.md)
-- [ ] ☁️ 14 > [](Journey/014/Readme.md)
+- [x] ☁️ 14 > [Amazon CloudWatch Logs & AWS CloudTrail](Journey/014/Readme.md)
 - [ ] ☁️ 15 > [](Journey/015/Readme.md)
 - [ ] ☁️ 16 > [](Journey/016/Readme.md)
 - [ ] ☁️ 17 > [](Journey/017/Readme.md)
