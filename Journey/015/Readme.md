@@ -1,52 +1,44 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
+# Create an Organizational Trail
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+- CloudTrail is a product which logs API actions or account activities which affect AWS accounts.
+- CloudTrail Event is a log of an activity/API calls in an AWS account.
 
 ## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+How to Create an Organizational Trail
 
-### Step 1 — Summary of Step
+### Step 1 — In the CloudTrail Console, click on Trails in the left navbar
 
-![Screenshot](https://via.placeholder.com/500x300)
+![Screenshot](https://user-images.githubusercontent.com/22378253/94883724-5de70400-0439-11eb-80a5-1127dc57df64.png)
 
-### Step 1 — Summary of Step
+### Step 2  — Click on 'Create trail'
 
-![Screenshot](https://via.placeholder.com/500x300)
+![Screenshot](https://user-images.githubusercontent.com/22378253/94883723-5d4e6d80-0439-11eb-910d-fffc52a9fc06.png)
 
-### Step 3 — Summary of Step
+### Step 3 — Fill in the details
+- Enter a Trail name
+- Check the box for 'Enable for all accounts in my organization'
+- Enter a unique name for the 'Trail log bucket and folder'
+- Uncheck the box for 'Log file SSE-KMS encryption'
+- Check the box for 'CloudWatch Logs'
+- Enter a role name
+- then click 'Next'
 
-![Screenshot](https://via.placeholder.com/500x300)
+![Screenshot](https://user-images.githubusercontent.com/22378253/94883722-5d4e6d80-0439-11eb-9f1f-eeead0d6835b.png)
+![Screenshot](https://user-images.githubusercontent.com/22378253/94883721-5d4e6d80-0439-11eb-9e05-03757dba71b8.png)
 
-## ☁️ Cloud Outcome
+### Step 4  — Choose log events 
+- Everything is set as default
+- Then click 'Next'
+- 'Review'
+- 'Create Trail'
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+![Screenshot](https://user-images.githubusercontent.com/22378253/94883719-5d4e6d80-0439-11eb-866f-0eb9296ba831.png)
 
 ## Social Proof
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[https://twitter.com/sarahg813/status/1311865551443156992](https://twitter.com/sarahg813/status/1311865551443156992)
